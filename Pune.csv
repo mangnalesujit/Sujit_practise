@@ -1,0 +1,11 @@
+id,name,city,ismarried,isrelocated
+301,Amit Patil,pune,True,
+306,Vikas Pawar,pune,False,False
+311,Sanket Bhosale,pune,True,
+316,Swapnil Mane,pune,False,False
+321,Vijay Salunke,pune,True,
+326,Hemant Kulkarni,pune,False,False
+331,Prakash Jagtap,pune,True,
+336,Mohan Kumar,pune,False,False
+341,Abhishek Joshi,pune,True,True
+346,Sagar Patankar,pune,False,True

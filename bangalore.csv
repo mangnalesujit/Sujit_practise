@@ -1,0 +1,11 @@
+id,name,city,ismarried,isrelocated
+304,Nikhil Kulkarni,bangalore,False,
+309,Mahesh Joshi,bangalore,True,False
+314,Ganesh Gawade,bangalore,False,
+319,Santosh Lokhande,bangalore,True,False
+324,Arun Krishnan,bangalore,False,
+329,Ashok Nair,bangalore,True,False
+334,Ajay Desai,bangalore,False,True
+339,Sathish V,bangalore,True,
+344,Naveen Gupta,bangalore,False,False
+349,Tejas Kulkarni,bangalore,True,True

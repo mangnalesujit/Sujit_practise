@@ -1,0 +1,11 @@
+id,name,city,ismarried,isrelocated
+302,Rahul Deshmukh,mumbai,False,True
+307,Rohit Shinde,mumbai,True,True
+312,Anil Khandekar,mumbai,False,False
+317,Amol Yadav,mumbai,True,True
+322,Pankaj More,mumbai,False,False
+327,Dinesh Raman,mumbai,True,True
+332,Siddharth Mehta,mumbai,False,False
+337,Yogesh Patil,mumbai,True,True
+342,Ravi Prakash,mumbai,False,True
+347,Rohit Verma,mumbai,True,

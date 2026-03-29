@@ -1,0 +1,11 @@
+id,name,city,ismarried,isrelocated
+305,Ketan More,hyderabad,True,True
+310,Pravin Kale,hyderabad,False,True
+315,Sunil Patole,hyderabad,True,True
+320,Ramesh Iyer,hyderabad,False,True
+325,Sanjay Chavan,hyderabad,True,True
+330,Balaji Subramaniam,hyderabad,False,True
+335,Harshad Shah,hyderabad,True,
+340,Milind Kulkarni,hyderabad,False,False
+345,Pradeep Menon,hyderabad,True,True
+350,Manoj Pillai,hyderabad,False,True

@@ -1,0 +1,11 @@
+id,name,city,ismarried,isrelocated
+303,Suresh Jadhav,chennai,True,False
+308,Akash Naik,chennai,False,
+313,Deepak Thorat,chennai,True,True
+318,Kiran Shetty,chennai,False,
+323,Nitin Mahajan,chennai,True,True
+328,Umesh Pawar,chennai,False,
+333,Karthik R,chennai,True,True
+338,Rituraj Singh,chennai,False,True
+343,Shubham Jadhav,chennai,True,
+348,Arvind Rao,chennai,False,False
